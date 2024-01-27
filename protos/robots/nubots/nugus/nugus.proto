@@ -1241,7 +1241,7 @@ PROTO nugus
                           }
                         }
                       ]
-                      name "left_lower_arm"
+                      name "left_lower_arm [hand]"
                       boundingObject Transform {
                         translation -0.002479 -0.095649 -0.002522
                         children [
@@ -1406,7 +1406,7 @@ PROTO nugus
                           }
                         }
                       ]
-                      name "right_lower_arm"
+                      name "right_lower_arm [hand]"
                       boundingObject Transform {
                         translation -0.002479 -0.095659 0.002539
                         children [
