@@ -6,10 +6,10 @@
   "maximum_real_time_factor": 1.0,
   "side_left": "blue",
   "press_a_key_to_terminate": true,
-  "use_bouncing_server": true,
+  "use_bouncing_server": false,
   "red": {
-    "id": 8,
-    "config": "team_1.json",
+    "id": 12,
+    "config": "nubots.json",
     "hosts": [
       "127.0.0.1",
       "192.168.123.21",

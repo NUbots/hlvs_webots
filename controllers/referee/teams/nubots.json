@@ -2,7 +2,7 @@
   "name": "NUbots",
   "players": {
     "1": {
-      "proto": "NUgus",
+      "proto": "nugus",
       "dockerTag": "robocup",
       "dockerCmd": "webots/robocup",
       "halfTimeStartingPose": {
@@ -23,7 +23,7 @@
       }
     },
     "2": {
-      "proto": "NUgus",
+      "proto": "nugus",
       "dockerTag": "robocup",
       "dockerCmd": "webots/robocup",
       "halfTimeStartingPose": {
@@ -44,7 +44,7 @@
       }
     },
     "3": {
-      "proto": "NUgus",
+      "proto": "nugus",
       "dockerTag": "robocup",
       "dockerCmd": "webots/robocup",
       "halfTimeStartingPose": {
@@ -65,7 +65,7 @@
       }
     },
     "4": {
-      "proto": "NUgus",
+      "proto": "nugus",
       "dockerTag": "robocup",
       "dockerCmd": "webots/robocup",
       "halfTimeStartingPose": {
